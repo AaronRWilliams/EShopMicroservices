@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "97fjqHzHQCokZqOVk22Umb00knPbGB3AeFTHu3SFVa42NirhMasFK8kVBXkIXe5zHafnJ5kGVKQqOIlf0xNP3g==",
+  "success": true,
+  "projectFilePath": "/home/aaron/Documents/TMMC-learning/DotNetMicroservices/MyExercises/EShopMicroservices/src/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/home/aaron/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/home/aaron/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/home/aaron/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/home/aaron/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/aaron/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
